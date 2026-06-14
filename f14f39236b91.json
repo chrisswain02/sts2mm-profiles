@@ -1,0 +1,121 @@
+{
+  "name": "mod testing",
+  "game_version": null,
+  "created_by": "chrisswain02",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.2.1",
+      "source": null,
+      "hash": "33808be9f5d897a4f31da9d93f50fee3d7f25fa30d66fc0c0ed265d36b903ca5",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/chrisswain02/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.1_fdbe3146.zip",
+      "bundle_sha256": "fdbe314624d3869093a72e890b5917364ef0e412b4968b376f01fd104b096958"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck",
+        "ModConfig\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/chrisswain02/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_be4710ee.zip",
+      "bundle_sha256": "be4710ee881e2ce3c7cd4399a03ef6d44b5b7a28bcccd3f33b2c3b8134af0ffc"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath\\UnifiedSavePath.dll",
+        "UnifiedSavePath\\UnifiedSavePath.json",
+        "UnifiedSavePath\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://github.com/chrisswain02/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_b3abfad1.zip",
+      "bundle_sha256": "b3abfad1b886374a45e367936d94812bc5c95f2586fa700d2f12ee9f801c7c32"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.4",
+      "source": null,
+      "hash": "99dc1d2f27633e681878f02c061be1d86f38a358e77298d0227ec7ed4d4483d3",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/chrisswain02/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.4_ea567437.zip",
+      "bundle_sha256": "ea567437f4e41026fb277a98ae6872d83f56283be461965a64b37338d4198a63"
+    },
+    {
+      "name": "Codex Endless Mode",
+      "version": "0.2.10",
+      "source": null,
+      "hash": "d61179025e56036700615d6ae8f6c56fcb3cdfe9c6c52592d2c71452ba3c5613",
+      "files": [
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.config",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.dll",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.json"
+      ],
+      "folder_name": "codex.sts2.endlessmode",
+      "mod_id": "codex.sts2.endlessmode",
+      "enabled": true,
+      "bundle_url": "https://github.com/chrisswain02/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.2.10_b983421e.zip",
+      "bundle_sha256": "b983421efa057cfd8329034756e42bfa1988c6b075b52d248273867e67de39ff"
+    },
+    {
+      "name": "New Game +",
+      "version": "v1.110",
+      "source": "nexus:slaythespire2/mods/913",
+      "hash": "559bd1661778065756db227e8acfb036a24486dd6c2b89f75aa1516e11e9c8ce",
+      "files": [
+        "NewGamePlus\\NewGamePlus.dll",
+        "NewGamePlus\\NewGamePlus.json",
+        "NewGamePlus\\sentry-reports.log"
+      ],
+      "folder_name": "NewGamePlus",
+      "mod_id": "NewGamePlus",
+      "enabled": true,
+      "bundle_url": "https://github.com/chrisswain02/sts2mm-profiles/releases/download/bundles/New_Game___v1.110_27c8ce5f.zip",
+      "bundle_sha256": "27c8ce5fad929a39d7f2ca978b9544325a066f4c462968418bcdaa09b36bd1fe"
+    }
+  ],
+  "created_at": "2026-06-12T20:55:08.335502900Z",
+  "updated_at": "2026-06-13T20:30:27.557882800Z",
+  "public": false
+}
